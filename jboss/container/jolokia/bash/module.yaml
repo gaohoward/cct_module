@@ -8,7 +8,7 @@ description: ^
 
 labels:
 - name: io.fabric8.s2i.version.jolokia
-  value: "1.6.2-redhat-00002"
+  value: "1.6.2"
 
 envs:
 - name: JBOSS_CONTAINER_JOLOKIA_MODULE
